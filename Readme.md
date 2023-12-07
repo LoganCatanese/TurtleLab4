@@ -4,6 +4,8 @@
 I was the team lead for this project and I came up with the idea of using Matplotlib to graph user input, I was able to direct everyone into using Python, Pip, and installing the Matplotlib dependencies
 
 #Libraries we used for the project
+##Pip
+If you do not have Pip installed on your Windows/Linux, the InstallDependencies.bat script will not work
 ##Matplotlib (https://matplotlib.org/stable/)
 Installing Matplotlib to your environment
 >Pip install Matplotlib
